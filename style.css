@@ -1,0 +1,77 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: whitesmoke;
+}
+h1{
+    font-size: 100;
+}
+.orange-color{
+    color: orange;
+}
+.white-text{
+    color: white;
+}
+.flexible-container{
+    display: flex;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.middle{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.third-width{
+    width: 33%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    border: 10px white solid;
+    border-image-slice: 1;
+}
+img{
+    border-radius: 20px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+.half-width{
+    width: 50%;
+    padding-left: 20px;
+}
+.stat-big-font{
+    font-size: 100;
+    font-weight: 800;
+    padding-right: 50px;
+    text-align: center;
+    
+}
+.stat-small-font{
+    font-size: 10;
+    text-align: center;
+    padding-right: 50px;
+}
+#stat{
+    background-color: white;
+    border-radius: 10px;
+    border: white;
+    margin-top: 75px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 300px;
+}
